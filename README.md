@@ -1,6 +1,6 @@
 # Hi, I'm Munir Hossin 👋 
+[<img src='https://i.postimg.cc/LX3btzvX/linnkdinbg1.png' alt='Yasin Sarkar'>](https://github.com/munir-hossin)
 
-<img src="https://i.ibb.co.com/Q3w469fP/linnkdinbg1.png" alt="linnkdinbg1" border="0">
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <br>
