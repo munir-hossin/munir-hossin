@@ -1,8 +1,4 @@
-# Hi, I'm Munir Hossin 👋 
-<a href="https://github.com/munir-hossin">
-    <img src="https://i.postimg.cc/LX3btzvX/linnkdinbg1.png" alt="Munir" width="600" height="300"/>
-</a>
-
+# <h1 align="center">Hi, I'm Munir Hossin 👋 </h1>
 
 
 
