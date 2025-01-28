@@ -19,7 +19,7 @@
 <br>
 <br>
 <br>
-<p align="left"> <a href="https://x.com/yasinsorkar47" target="blank"><img src="https://img.shields.io/twitter/follow/yasinsorkar47?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/munir-hossin-02819a330/" target="blank">{MUNIR}</a> </p>
 
 ## 🚀 About Me
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I created a lots of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with Tailwindcss, daisyUI, ReactJS, JavaScript as well as Next.js. 
