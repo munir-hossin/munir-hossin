@@ -1,5 +1,8 @@
 # Hi, I'm Munir Hossin 👋 
-[![Munir](https://i.postimg.cc/LX3btzvX/linnkdinbg1.png)](https://github.com/munir-hossin)
+<a href="https://github.com/munir-hossin">
+    <img src="https://i.postimg.cc/LX3btzvX/linnkdinbg1.png" alt="Munir" width="100%" height="auto"/>
+</a>
+
 
 
 
