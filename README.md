@@ -35,8 +35,8 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ## 📈 My GitHub Stats
 ### GitHub Stars
+<!-- ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=yasin-sorkar47&show_icons=true&theme=radical) -->
 
-![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=yasin-sorkar47&show_icons=true&theme=radical)
 
 ### Top Languages
 
