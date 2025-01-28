@@ -1,12 +1,13 @@
 # Hi, I'm Munir Hossin 👋 
-[<img src='https://github.com/yasin-sorkar47/yasin-sorkar47/blob/main/image/banner.jpg' alt='Yasin Sarkar'>](https://github.com/yasin-sorkar47/)
+
+<img src="https://i.ibb.co.com/Q3w469fP/linnkdinbg1.png" alt="linnkdinbg1" border="0">
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <br>
 <br>
 
 
-<img align="right" alt="coding" width="400" rc="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <br> 
 -👑 I am Web Developer <br> 
